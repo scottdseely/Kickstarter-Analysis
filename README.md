@@ -2,8 +2,7 @@
 
 “Kickstarter is one of those platforms that gives you space to work with people who know you, love, and support you.”
 		--De La Soul
-According to Kickstarter they have accumulated. 
-Kickstarter campaigns have accumulated over 5.9 Billion  with over 20 million backers, 6.7 million of which are repeat backers.  Over 73 million total pledges overall.   Over 450 projects have broken through the $1 million mark, and over 6,400 campaigns raised over $100,000.
+According to Kickstarter their campaigns have accumulated over 5.9 Billion  with over 20 million backers, 6.7 million of which are repeat backers.  Over 73 million total pledges overall.   Over 450 projects have broken through the $1 million mark, and over 6,400 campaigns raised over $100,000.
 Of Kickstarter’s 15 categories, the most popular are:
 •	Games – $1.14 billion successfully raised with a 40.63% success rate
 •	Design – $1 billion successfully raised with a 38.12% success rate
